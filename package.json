@@ -1,0 +1,39 @@
+{
+  "name": "was-button",
+  "version": "1.0.3",
+  "description": "A simple and fully customizable React Native component that implements a progress stepper UI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colbymillerdev/react-native-progress-steps.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "stepper",
+    "progress",
+    "progress-steps"
+  ],
+  "author": "Colby Miller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colbymillerdev/react-native-progress-steps/issues"
+  },
+  "homepage": "https://github.com/colbymillerdev/react-native-progress-steps#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.58.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
